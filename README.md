@@ -16,6 +16,7 @@ I'm currently exploring Github to broaden my skill set and improve my efficiency
 ## 📫 How to Reach Me
 
 - LinkedIn: [Profile:](www.linkedin.com/in/dhairya-sharma-2a8b36294)
+- LeetCode: (dhairyasharmaa)
 - Email: sdhairya0@gmail.com
 
 💼 My Projects
